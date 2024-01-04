@@ -7,4 +7,4 @@ this plugin stops podzol from growing when a mega tree is planted
 made for 1.20+
 
 
-download from release tab
+download from [relese tab](https://github.com/Treppenhaus/NoPodzolConversion/releases)
