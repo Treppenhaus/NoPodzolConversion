@@ -1,0 +1,4 @@
+main: de.lunarsky.treppi.podzol.NoPodzolConversionPlugin
+version: 1.0
+name: NoPodzolConversion
+author: treppi
